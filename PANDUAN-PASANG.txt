@@ -1,0 +1,27 @@
+# Website Kevin Clieff Emor — Pelatihan & Sertifikat
+
+## File dalam paket
+- `index.html`: website yang sudah diperbarui.
+- `sertifikat/`: berisi salinan PDF dan gambar pratinjau dokumen yang diberikan pengguna.
+  - `surat-keterangan-lulus-pembinaan-ak3u-ijs.pdf` (halaman 3)
+  - `data-management-staff-bnsp.pdf` (halaman 1–2)
+  - `sertifikat-penunjang-k3-lengkap.pdf` (17 sertifikat halaman 4–20)
+  - Setiap sertifikat penunjang juga tersedia sebagai PDF tersendiri.
+  - `seluruh-dokumen-asli-20-halaman.pdf` (salinan PDF asli).
+- `dokumentasi/`: folder foto seminar, PKL, dan foto angkatan (foto belum diberikan).
+
+## Cara memasang di GitHub Pages
+1. Ekstrak ZIP.
+2. Buka repositori GitHub Pages `kevinclieff98-prog.github.io` milik Anda.
+3. Pastikan salinan file lama disimpan sebagai cadangan sebelum diganti.
+4. Unggah `index.html` dan folder `sertifikat/` ke root repositori. **Pertahankan struktur folder dan nama file.**
+5. Tunggu GitHub Pages selesai mempublikasikan perubahan.
+6. Buka https://kevinclieff98-prog.github.io/ dan uji bagian "Sertifikat".
+7. Untuk foto kegiatan, unggah foto asli ke folder `dokumentasi/` dengan nama: `seminar-1.jpg`, `seminar-2.jpg`, `pkl-1.jpg`, `pkl-2.jpg`, `angkatan-1.jpg`, `angkatan-2.jpg`.
+
+## Catatan penting
+- Pada dokumen IJS tanggal 4 September 2026, statusnya **lulus pembinaan calon Ahli K3 Umum**; sertifikat/SKP Kemnaker masih dalam proses saat surat dibuat. Website tidak menyebutnya sebagai sertifikat Kemnaker yang sudah diterbitkan.
+- Sertifikat BNSP Data Management Staff diterbitkan 28 November 2022 dan pada dokumen disebut berlaku 3 tahun; situs mencantumkan keterangan ini dan tidak menyatakan sertifikat masih aktif.
+- **Privasi:** PDF dari pengguna memuat data pribadi seperti tanggal/tempat lahir dan nomor dokumen. Bila diunggah ke GitHub Pages, data ini menjadi dapat diakses publik. Hapus atau samarkan data yang tidak ingin dibagikan SEBELUM dipublikasikan.
+- Referensi CV-Kevin-Clieff-Emor.pdf dan foto-kevin.jpg pada situs lama dipertahankan. Jika file tersebut ada di repositori asli Anda, jangan dihapus.
+- Foto kegiatan seminar, PKL, dan angkatan belum dimasukkan karena belum dikirim pengguna.

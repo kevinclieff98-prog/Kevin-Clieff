@@ -1,0 +1,11 @@
+GALERI TERPISAH PER JUDUL
+
+Bagian Pelatihan PJK3 website sudah berisi:
+1. Seminar & Pembelajaran (foto belum tersedia)
+2. Praktik Kerja Lapangan (PKL): 5 foto dan 1 video
+3. Angkatan 426 IJS / Angkatan 3 Gorontalo: 9 foto
+4. Penyerahan Sertifikat IJS: 3 foto
+
+Buka index.html untuk melihat website. Untuk memasang di GitHub Pages, unggah seluruh isi ZIP ke direktori root repositori dan pertahankan struktur folder dokumentasi/ dan sertifikat/.
+
+Pastikan Anda telah mendapat izin publikasi foto kelompok serta menyetujui data pribadi dalam sertifikat sebelum website dipublikasikan.
